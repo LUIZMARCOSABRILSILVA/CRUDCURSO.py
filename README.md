@@ -1,2 +1,0 @@
-# CRUDCURSO.py
-Python3
